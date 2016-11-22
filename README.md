@@ -55,3 +55,8 @@ Disable annoying smart quotes feature.
 #### scripts/disable\_bonjour.sh
 
 Disable bonjour multicast advertisements.
+
+##### scripts/expand\_save\_panel.sh
+
+Expand save dialog by default.
+
