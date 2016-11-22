@@ -50,3 +50,8 @@ Set system wide print dialog default printing dialog on chrome
 #### scripts/disable\_smart\_quotes.sh
 
 Disable annoying smart quotes feature.
+
+
+#### scripts/disable\_bonjour.sh
+
+Disable bonjour multicast advertisements.
